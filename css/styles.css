@@ -534,13 +534,6 @@ mark,
   height: auto;
 }
 
-.tag {
-  width: fit-content;
-  padding: 2px 5px 2px 5px;
-  margin-right: 5px;
-  box-shadow: 3px 3px 3px #dfdfdf;
-}
-
 .figure {
   display: inline-block;
 }
@@ -7018,6 +7011,13 @@ button.bg-dark:focus {
 .project-preview {
   width: 30vw;
   padding-left: 3%;
+}
+
+.tag {
+  width: fit-content;
+  padding: 2px 5px 2px 5px;
+  margin-right: 5px;
+  box-shadow: 3px 3px 3px #dfdfdf;
 }
 
 .flex-shrink-1 {
